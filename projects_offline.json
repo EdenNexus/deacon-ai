@@ -1,6 +1,62 @@
 [
     {
-        "name": "password manager",
+        "name": "my protifolio web page",
+        "completed": false
+    },
+    {
+        "name": "Gather security requirements and threat model",
+        "completed": false
+    },
+    {
+        "name": "design encrypted storage schema and password vault",
+        "completed": false
+    },
+    {
+        "name": "implement encryption/decryption and secure retrieval API",
+        "completed": false
+    },
+    {
+        "name": "build user interface for adding and managing passwords",
+        "completed": false
+    },
+    {
+        "name": "Review current profile and note needed changes",
+        "completed": false
+    },
+    {
+        "name": "Write a concise and engaging bio",
+        "completed": false
+    },
+    {
+        "name": "Choose and upload a professional profile picture",
+        "completed": false
+    },
+    {
+        "name": "Update pinned repositories and add recent projects\"}",
+        "completed": false
+    },
+    {
+        "name": "Check hardware and OS compatibility",
+        "completed": false
+    },
+    {
+        "name": "install Python and required AI libraries (e.g.",
+        "completed": false
+    },
+    {
+        "name": "TensorFlow",
+        "completed": false
+    },
+    {
+        "name": "PyTorch)",
+        "completed": false
+    },
+    {
+        "name": "set up a virtual environment and configure GPU drivers",
+        "completed": false
+    },
+    {
+        "name": "run and verify a sample AI model",
         "completed": false
     }
 ]
